@@ -1,5 +1,8 @@
 # Telegram Index
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mathusanth15/tg-index)
+
+
 > Python Web App which indexes a telegram channel(or a chat) and serves its files for download.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](.) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
